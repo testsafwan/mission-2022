@@ -18,3 +18,7 @@ h1 {
 .different-color {
     color: #FFAD5A;
 }
+
+.my-mission img {
+    width: 140px;
+}
