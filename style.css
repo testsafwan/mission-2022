@@ -22,3 +22,11 @@ h1 {
 .my-mission img {
     width: 140px;
 }
+
+.img-negative-margin {
+    margin-left: -90px;
+}
+
+.img-negative-margin-right {
+    margin-right: -90px;
+}
